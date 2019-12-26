@@ -1,7 +1,7 @@
 # 2048 Hexagon
 Another double version of [2048](https://2048-game.netlify.com).
 
-Made just for fun. [Play it here!](http://2048-hexagon.netlify.com)
+Made just for fun. [Play it here!](https://2048-hexagon.netlify.com)
 
 ### Contributions
 
