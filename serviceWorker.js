@@ -8,7 +8,7 @@ const staticAssets = [
     './js/html_actuator.js',
     './js/grid.js',
     './js/tile.js',
-    './js/local_storage_manager.js',
+    './js/local_score_manager.js',
     './js/game_manager.js',
     './js/application.js',
     './favicon.ico'
