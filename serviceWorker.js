@@ -10,8 +10,7 @@ const staticAssets = [
     './js/tile.js',
     './js/local_score_manager.js',
     './js/game_manager.js',
-    './js/application.js',
-    './favicon.ico'
+    './js/application.js'
 ];
 
 self.addEventListener('install', async event => {
